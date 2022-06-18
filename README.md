@@ -15,9 +15,10 @@ This is a personal repo with code and content related to Helium Network
 
 ## Hardware tutorials
 
-### HW references
+### HW references/development kits
 
-
+- [RAK11310 WisBlock](https://store.rakwireless.com/products/rak11310-wisblock-lpwan-module)
+- [Heltec Cubecell HTCC AB01](https://docs.helium.com/use-the-network/devices/development/heltec/cubecell-dev-board/arduino/)
 - [Microchip ATECC508A](https://content.arduino.cc/assets/mkr-microchip_atecc508a_cryptoauthentication_device_summary_datasheet-20005927a.pdf)
 
 
