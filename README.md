@@ -39,3 +39,5 @@ This is a personal repo with code and content related to Helium Network
 [2]. MoneyTimes. [Startup vai disseminar rede Helium no Brasil](https://www.moneytimes.com.br/startup-vai-disseminar-rede-helium-no-brasil-com-aporte-de-us-800-mil-da-fuse-capital/)
 
 [3]. [Source Code for 'Bitcoin and Lightning Network on Raspberry Pi: Running Nodes on Pi3, Pi4 and Pi Zero' by Harris Brakmic](https://github.com/Apress/bitcoin-lightning-network-raspberry-pi)
+
+[4]. [Chapter 4. Helium: A Blockchain-Based Wireless Network](https://www.oreilly.com/library/view/blockchain-success-stories/9781098114817/ch04.html)
