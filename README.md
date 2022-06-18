@@ -14,6 +14,7 @@ This is a personal repo with code and content related to Helium Network
 - [Proof-of-coverage explained in pcture](https://www.heliumact.com.au/2021/09/20/can-i-get-a-witness-helium-witnessing-and-proof-of-coverage-explained/)
 - [How much cost a Helium miner?](https://emrit.io/helium-network-how-much-does-a-helium-miner-cost/)
 - [Hotspot Manufacturers List](https://github.com/dewi-alliance/hotspot-manufacturers)
+- [All about Helium - Disk91](https://www.disk91.com/all-about-helium/)
 
 ## Hotspots tutorials
 
@@ -34,4 +35,5 @@ This is a personal repo with code and content related to Helium Network
 # References/news
 
 [1]. Haleem, A., Allen, A., Thompson, A., Nijdam, M., & Garg, R. [A Decentralized Wireless Network](http://whitepaper.helium.com/).
+
 [2]. MoneyTimes. [Startup vai disseminar rede Helium no Brasil](https://www.moneytimes.com.br/startup-vai-disseminar-rede-helium-no-brasil-com-aporte-de-us-800-mil-da-fuse-capital/)
