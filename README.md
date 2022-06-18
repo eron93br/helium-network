@@ -37,3 +37,5 @@ This is a personal repo with code and content related to Helium Network
 [1]. Haleem, A., Allen, A., Thompson, A., Nijdam, M., & Garg, R. [A Decentralized Wireless Network](http://whitepaper.helium.com/).
 
 [2]. MoneyTimes. [Startup vai disseminar rede Helium no Brasil](https://www.moneytimes.com.br/startup-vai-disseminar-rede-helium-no-brasil-com-aporte-de-us-800-mil-da-fuse-capital/)
+
+[3]. [Source Code for 'Bitcoin and Lightning Network on Raspberry Pi: Running Nodes on Pi3, Pi4 and Pi Zero' by Harris Brakmic](https://github.com/Apress/bitcoin-lightning-network-raspberry-pi)
